@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ISA\AndroidStudioProjects\Inventoryapp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="C:\Users\ISA\AndroidStudioProjects\Inventoryapp\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.1.1_c203c3f5c57a328748644a7ff7c0e15813a573c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ISA\AndroidStudioProjects\Inventoryapp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\ISA\AndroidStudioProjects\Inventoryapp\app\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_800205270fbb9db1346b4bb90d5a40fdd45a5a20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ISA\AndroidStudioProjects\Inventoryapp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\ISA\AndroidStudioProjects\Inventoryapp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.1_bec6c5eae7213f3460f9c29d4614bd2186ae0a20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ISA\AndroidStudioProjects\Inventoryapp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9a3802d5876ee1972cbf6d832b6d9c8042c8bcd3">
+        <dex dex="C:\Users\ISA\AndroidStudioProjects\Inventoryapp\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_675f903623fa01fcd9240568cf6c2352d034d8d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ISA\AndroidStudioProjects\Inventoryapp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\ISA\AndroidStudioProjects\Inventoryapp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.1_b6bad27e34e76338c7993c7dc9b457cf6f58a5f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ISA\AndroidStudioProjects\Inventoryapp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6ace69b83c328f9a296bd7ebd881ca56f091a1df">
+        <dex dex="C:\Users\ISA\AndroidStudioProjects\Inventoryapp\app\build\intermediates\pre-dexed\debug\instant-run_d8b000afb179f4bcd8342b6fdb8ca081e3214c54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ISA\AndroidStudioProjects\Inventoryapp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\ISA\AndroidStudioProjects\Inventoryapp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.1_72d65b78a8f5260ef654e0be01889bd84df23244.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ISA\AndroidStudioProjects\Inventoryapp\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="C:\Users\ISA\AndroidStudioProjects\Inventoryapp\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.1.1_4f258ef2d46ca26a0ab3a193554ff54b85a2065e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ISA\AndroidStudioProjects\Inventoryapp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\ISA\AndroidStudioProjects\Inventoryapp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.1_2504276b60c99985300ca2232d158f359c831f8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ISA\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\ISA\AndroidStudioProjects\Inventoryapp\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_cd7ded9bf65459192f5886cbd3f4643d3350bb33.jar" />
+    </item>
+
+</items>
